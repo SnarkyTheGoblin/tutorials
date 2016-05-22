@@ -1,1 +1,1 @@
-changes the second
+These are changes to the second file.
